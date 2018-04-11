@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #F8F9FA;
+}
+
+.form-content{
+  margin: auto;
+  width: 80%;
+  margin-top: 50px;
+  border-radius: 3%;
+}
+
+.header{
+  height: 100px;
+  background-color: #004A98;
+  font-family: impact;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  line-height: 80px;
+  margin-bottom: 30px;
+}
